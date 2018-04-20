@@ -433,4 +433,4 @@ _n98-magerun2()
     fi
 }
 
-complete -o default -F _n98-magerun2 n98-magerun2.phar n98-magerun2 magerun2
+complete -o default -F _n98-magerun2 n98-magerun2.phar n98-magerun2 magerun2 mr2
